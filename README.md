@@ -1,7 +1,7 @@
 # Nested Tags And Attributes
 
 Explanation of content.
-
+<!-- ok, this all makes sense. no actual directive/objective though? -->
 ### Nested Tags
 
 Tags can be nested as demonstrated in the navigation snippet below.
