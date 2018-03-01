@@ -1,7 +1,7 @@
 # Nested Tags And Attributes
 
 Explanation of content.
-
+<!-- ok, this all makes sense. no actual directive/objective though? -->
 ### Nested Tags
 
 Tags can be nested as demonstrated in the navigation snippet below.
@@ -56,7 +56,7 @@ Both `<id>` and `<class>` attributes are often used for styling purposes since t
 
 ```html
 	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
-	
+
 	<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
